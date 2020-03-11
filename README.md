@@ -1,20 +1,21 @@
-# {{ NAME OF TEXT }}
+# Stories and Legends: A First Greek Reader; With Vocabulary and Exercises (by F. H. Colson)
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+Transcription of the text
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Ivy Livingston
+* Miriam Kamil
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+Google Books scan
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+First story added, but text validation errors need to be dealt with before proceeding
 
 ## License
 
