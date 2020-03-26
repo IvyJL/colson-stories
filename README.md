@@ -15,7 +15,7 @@ Google Books scan
 
 ## Progress
 
-First story added, but text validation errors need to be dealt with before proceeding
+Texts being added, including adding line break markers to reflect print text and restoring hyphens meant to help learners from original
 
 ## License
 
