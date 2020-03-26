@@ -1,4 +1,4 @@
-* each story is number, e.g., colson.01.01 for the author, part 1, and story 1, respectively
+* each story is numbered, e.g., colson.01.01.txt for the author, part 1, and story 1, respectively
 * within each story part, the title is on the first line and numbered ending in a zero, like 1.1.0
 * the rest of the story part is in a single "line" beginning 1.1.1 but the line breaks of the print edition are indicated after that by {.2} etc.
 * can be multiple *.txt files but, if there is an inherent order to the files, this should be reflected in the sort order of the filenames
